@@ -1,0 +1,6 @@
+Stella,R.,Simmons,101025186,Freshman,Theater and Dance,2.45
+Lincoln,X.,Ford,101090569,Freshman,Neuroscience,3.25
+Jaxon,Z.,Washington,101051173,Sophomore,Women's Gender and Sexuality Studies,3.95
+Mason,H.,Richardson,101027773,Junior,Undeclared,3.76
+Alexander,V.,Foster,101068701,Senior,Japanese,2.68
+Brooklyn,I.,Robinson,101062632,Sophomore,Philosophy,3.66
